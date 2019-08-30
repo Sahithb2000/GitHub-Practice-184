@@ -33,7 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
-| Sahith Kumar Bandari | Sahithb2000 | https://github.com/Sahithb2000/GitHub-Practice-184 | 
+| Sahith Kumar Bandari | Sahithb2000 | https://sahithb2000.github.io/stat184/ | 
 <br>
 
 
